@@ -4,6 +4,8 @@
 
 ###### subsubsub header
 
+## Python 101 Lesson 2
+### March 19, 2019
 
 
 ![MiGato](./MiGato.jpg)
