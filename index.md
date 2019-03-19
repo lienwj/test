@@ -9,7 +9,8 @@
 ### March 19, 2019
 
 ###### *Italic = 1 asterick*
-###### **Bold = 2 astericks**
+###### __Bold = 2 underlines__
+###### *__Test__* *Test*
 
 
 ![MiGato](./MiGato.jpg)
