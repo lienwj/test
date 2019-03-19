@@ -17,4 +17,4 @@
 
 ![MiPerro](./MiPerro.jpg)
 
-![Lightbulb)(./lightbulb.jpg)
+![Lightbulb](./lightbulb.jpg)
