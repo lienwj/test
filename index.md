@@ -5,8 +5,11 @@
 ###### subsubsub header
 
 
-## *Python 101 Lesson 2*
+## Python 101 Lesson 2
 ### March 19, 2019
+
+###### *Italic = 1 asterick*
+###### **Bold = 2 astericks**
 
 
 ![MiGato](./MiGato.jpg)
